@@ -13,3 +13,4 @@
 10. 畅游：http://www.changyou.com/about_us/privacy.shtml
 11. 美篇：https://www.meipian.cn/29vb1v8v?share_depth=1
 12. 百家云：https://www.baijiayun.com/auth/websiteProtocol
+13. 学而思网校：https://zt.xueersi.com/registration_agreement.html
