@@ -1,5 +1,5 @@
 # PrivateAgreement  （更新中，欢迎 PR）
- 各家的隐私政策地址，便于检索和参考
+ 各家的 隐私政策/隐私协议 地址，便于检索和参考
 
 1. 京东：https://about.jd.com/privacy/
 2. 淘宝：https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html
