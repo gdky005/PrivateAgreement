@@ -14,3 +14,9 @@
 11. 美篇：https://www.meipian.cn/29vb1v8v?share_depth=1
 12. 百家云：https://www.baijiayun.com/auth/websiteProtocol
 13. 学而思网校：https://zt.xueersi.com/registration_agreement.html
+
+## 教育类
+1. 学而思：https://zt.xueersi.com/privacy/
+2. 猿辅导：https://m.yuanfudao.com/native/help/privacy-policy
+3. 猿辅导儿童隐私：https://m.yuanfudao.com/native/help/children-protocol
+4. 新东方：https://www.koolearn.com/user/policy
